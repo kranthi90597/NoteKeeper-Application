@@ -31,10 +31,13 @@ cd notekeeper
 
 ## File Structure
 
-> index.html - The main HTML file.
-> styles.css - The CSS file for styling the application.
-> script.js - The JavaScript file for application logic.
-> bg1.jfif.jpg - Background image used in the application.
+index.html - The main HTML file.
+
+styles.css - The CSS file for styling the application.
+
+script.js - The JavaScript file for application logic.
+
+bg1.jfif.jpg - Background image used in the application.
 
 
 ## Usage
@@ -43,11 +46,12 @@ Open index.html in a web browser to run the application.
 
 ## Code Explanation
 
-> index.html: Contains the structure of the application, including the form for creating notes and a container for displaying notes.
+index.html: Contains the structure of the application, including the form for creating notes and a container for displaying notes.
 
-> styles.css: Handles the styling of the application, including responsive design adjustments for different screen sizes.
+styles.css: Handles the styling of the application, including responsive design adjustments for different screen sizes.
 
-> script.js: Contains the JavaScript code for handling note creation, editing, deletion, and pagination.
+script.js: Contains the JavaScript code for handling note creation, editing, deletion, and pagination.
+
 
 ## Responsive Design
 
