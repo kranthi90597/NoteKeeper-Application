@@ -16,8 +16,9 @@ Notekeeper is a simple digital notebook application that allows users to create,
 
 Ensure you have the following installed:
 
-> A modern web browser (e.g., Chrome, Firefox, Safari)
-> A text editor or IDE (e.g., VS Code, Sublime Text)
+A modern web browser (e.g., Chrome, Firefox, Safari)
+
+A text editor or IDE (e.g., VS Code, Sublime Text)
 
 ## Installation
 
