@@ -44,7 +44,9 @@ Open index.html in a web browser to run the application.
 ## Code Explanation
 
 > index.html: Contains the structure of the application, including the form for creating notes and a container for displaying notes.
+
 > styles.css: Handles the styling of the application, including responsive design adjustments for different screen sizes.
+
 > script.js: Contains the JavaScript code for handling note creation, editing, deletion, and pagination.
 
 ## Responsive Design
