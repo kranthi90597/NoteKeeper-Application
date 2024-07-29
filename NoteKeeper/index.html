@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Notekeeper</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="ht">
+    <h1 id="head">Notekeeper</h1>
+    <p>-Your Digital Notebook for Every Thought</p>
+  </div>
+    <div class="container">
+    <form id="noteForm">
+      <input type="text" id="noteTitle" placeholder="Title" required>
+      <input type="text" id="noteTagline" placeholder="Tagline" required>
+      <textarea id="noteBody" placeholder="Note" required></textarea>
+      <button type="submit" id="saveNoteButton">Save Note</button>
+    </form>
+    <div id="notesContainer" class="grid"></div>
+    <div id="pagination">
+      <button id="prevPage">Previous</button>
+      <span id="pageInfo"></span>
+      <button id="nextPage">Next</button>
+    </div>
+  </div>
+  <script src="script.js"></script>
+<script src="https://www.drv.tw/inc/wd.js?s=qp7jbx4znx8pysvkkc8mtw"></script></body>
+</html>
