@@ -32,8 +32,11 @@ cd notekeeper
 ## File Structure
 
 index.html - The main HTML file.
+
 styles.css - The CSS file for styling the application.
+
 script.js - The JavaScript file for application logic.
+
 bg1.jfif.jpg - Background image used in the application.
 
 ## Usage
@@ -51,6 +54,7 @@ Open index.html in a web browser to run the application.
 The application is designed to be responsive using media queries. Key breakpoints include:
 
 768px: Adjusts font sizes and container padding for tablet screens.
+
 480px: Further adjusts font sizes and container padding for mobile screens.
 
 ## Screenshots 
@@ -67,6 +71,7 @@ The application is designed to be responsive using media queries. Key breakpoint
 For any questions or feedback, please contact:
 
 Email: kranthi90597@gmail.com
+
 Linkedin: https://www.linkedin.com/in/kranthi90597/
 
 
