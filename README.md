@@ -31,13 +31,11 @@ cd notekeeper
 
 ## File Structure
 
-index.html - The main HTML file.
+> index.html - The main HTML file.
+> styles.css - The CSS file for styling the application.
+> script.js - The JavaScript file for application logic.
+> bg1.jfif.jpg - Background image used in the application.
 
-styles.css - The CSS file for styling the application.
-
-script.js - The JavaScript file for application logic.
-
-bg1.jfif.jpg - Background image used in the application.
 
 ## Usage
 
